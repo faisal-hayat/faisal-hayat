@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @faisal-hayat
 - 👀 I’m interested in machine learnig, computer vision, smart grid, and meta-heuristic techniques
 - 🌱 I’m currently working on meta-heuristic techniques and feature selection
-- 💞️ I’m looking to collaborate on data science related projects
+- 💞️ I’m you are looking for collaboration, email ne
 - 📫 How to reach me  m.faisalhayat3@mail.com
 
 <!---
